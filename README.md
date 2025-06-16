@@ -44,10 +44,8 @@ This project is a simple social media platform designed to simulate core functio
 | [Node.js](https://nodejs.org) & [Express](https://github.com/expressjs/express) | Backend server with REST API support |
 | [MongoDB](https://www.mongodb.com) or SQL (PostgreSQL) | Database for storing users, posts, etc. |
 | [React](https://github.com/facebook/react) *(or Vue/Angular)* | Front-end framework for dynamic UI |
-| JWT/OAuth | Authentication mechanisms |
-| [Tailwind](https://tailwindcss.com) or Bootstrap | UI styling |
+| JWT | Authentication mechanisms |
 | [Cloudinary](https://cloudinary.com) / AWS S3 *(Optional)* | Media file uploads |
-| [Redis](https://redis.io) *(Optional)* | Caching and session storage |
 
 ---
 
