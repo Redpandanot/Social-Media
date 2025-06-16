@@ -88,8 +88,6 @@ Access the API or front-end via your browser or an API client like Postman.
 
 🧱 Project Structure
 ```bash
-Copy
-Edit
 Social-Media/
 ├── README.md
 ├── package.json
